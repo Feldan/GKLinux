@@ -28,6 +28,10 @@
 - [有一说] -> https://dhwork.top/
 - [PTA] -> https://blog.pintia.cn/
 
+### 夹带私货
+- https://blog.xiaotao233.top/
+- https://blog.diyxi.top/
+- https://darkroom.vip/
 
 <!-- 个人 -->
 [Penguin]:https://www.polarxiong.com/
