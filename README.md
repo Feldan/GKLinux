@@ -22,7 +22,10 @@
 
 
 ## 各高校协会
-
+- [tuna] -> https://tuna.moe/blog/
+- [中国科学技术大学 Linux 用户协会] -> https://lug.ustc.edu.cn/wiki/
+- [东南大学微软俱乐部] -> https://angryberry.gitee.io/contact/
+- [东南大学微软俱乐部 GitHub Pages] -> https://seu-codingtogether.github.io/
 
 
 ## 组织blog
@@ -60,6 +63,8 @@
 [中国科学技术大学 Linux 用户协会]:https://lug.ustc.edu.cn/wiki/
 [东南大学微软俱乐部]:https://angryberry.gitee.io/contact/
 [东南大学微软俱乐部 GitHub Pages]:https://seu-codingtogether.github.io/
+
+
 <!-- 组织 -->
 [Ms509 Team]:https://www.ms509.com/
 [nu1L Team]:https://www.nu1l.com/#/
