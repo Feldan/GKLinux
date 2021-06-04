@@ -1,72 +1,18 @@
-# 资源汇总列表
+# GK-GNU/Linux协会筹备
 
+## Todo-List
 
-## 个人blog
-排名不分先后，纯随机
+1. 官网的筹备
+2. 协会会标、理念、官方宣传等
+3. 7-9月宣传文案准备
+4. 9月-10月开学后的宣传
+   1. 宣传海报
+   2. 会旗等
+5. 协会域名
+6. 各种基础类服务的搭建
+   1. 邮件服务器
+   2. 文件服务器
+   3. 镜像站等
+7. 活动组织策划
+8. 萌新入门指南
 
-- [greyli] -> https://greyli.com/
-- [Penguin] -> https://www.polarxiong.com/
-- [国光] -> https://www.sqlsec.com/
-- [bbsmax] -> https://www.bbsmax.com/
-- [Sukka's] -> https://blog.skk.moe/
-- [dai师兄的博客] -> https://blog.dairoot.cn/ 
-- [思诚之道] -> http://www.bjhee.com/
-- [frostming] -> https://frostming.com/
-- [GeekSpeng] -> https://geekspeng.cn/
-- [MoeLove] -> https://moelove.info/
-- [杨尚臻] -> https://www.yangshangzhen.com/
-- [zcmimi] -> https://blog.zcmimi.top/
-- [I Code It] -> http://icodeit.org/
-- [Mr.Lee's] -> https://leezhonglin.github.io/
-- https://zouwang.vip/
-
-
-## 各高校协会
-- [tuna] -> https://tuna.moe/blog/
-- [中国科学技术大学 Linux 用户协会] -> https://lug.ustc.edu.cn/wiki/
-- [东南大学微软俱乐部] -> https://angryberry.gitee.io/contact/
-- [东南大学微软俱乐部 GitHub Pages] -> https://seu-codingtogether.github.io/
-
-
-## 组织blog
-
-- [Ms509 Team] -> https://www.ms509.com/
-- [nu1L Team] -> https://www.nu1l.com/#/
-- [有一说] -> https://dhwork.top/
-- [PTA] -> https://blog.pintia.cn/
-
-
-### 夹带私货
-- https://blog.xiaotao233.top/
-- https://blog.diyxi.top/
-- https://darkroom.vip/
-
-<!-- 个人 -->
-[greyli]:https://greyli.com/
-[Penguin]:https://www.polarxiong.com/
-[国光]:https://www.sqlsec.com/
-[bbsmax]:https://www.bbsmax.com/
-[Sukka's]:https://blog.skk.moe/
-[dai师兄的博客]:https://blog.dairoot.cn/ 
-[思诚之道]:http://www.bjhee.com/
-[frostming]:https://frostming.com/
-[GeekSpeng]:https://geekspeng.cn/
-[MoeLove]:https://moelove.info/
-[杨尚臻]:https://www.yangshangzhen.com/
-[zcmimi]:https://blog.zcmimi.top/
-[I Code It]:http://icodeit.org/
-[Mr.Lee's]:https://leezhonglin.github.io/
-
-
-<!-- 高校 -->
-[tuna]:https://tuna.moe/blog/
-[中国科学技术大学 Linux 用户协会]:https://lug.ustc.edu.cn/wiki/
-[东南大学微软俱乐部]:https://angryberry.gitee.io/contact/
-[东南大学微软俱乐部 GitHub Pages]:https://seu-codingtogether.github.io/
-
-
-<!-- 组织 -->
-[Ms509 Team]:https://www.ms509.com/
-[nu1L Team]:https://www.nu1l.com/#/
-[有一说]:https://dhwork.top/
-[PTA]:https://blog.pintia.cn/
